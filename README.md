@@ -69,7 +69,7 @@ $ git push origin <branch name>
 
 ### Part E: File a pull request
 
-Then open a pull request from the branch on your fork towards the master branch on the repository where you forked from.
+Then open a pull request from the branch on your fork towards the main branch on the repository where you forked from.
 
 Observe how the issues automatically close after the pull requests are merged
 (provided the commit messages contain [the right keywords](https://help.github.com/en/articles/closing-issues-using-keywords)).
