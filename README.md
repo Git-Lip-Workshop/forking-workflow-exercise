@@ -41,7 +41,7 @@ git push --set-upstream origin <branch name>
 ```
 
 On the new branch create a new file which will hold your recipe,
-for instance `my_recipe.md` (but change the name). You can get inspired
+for instance `my_taco_recipe.md` (but change the name). You can get inspired
 [here](https://github.com/sinker/tacofancy/tree/master/full_tacos). Hopefully we all use different
 file names, otherwise we will experience conflicts later (which is also interesting!).
 
